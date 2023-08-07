@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 #### About Me
-- 😊 I’m @Cherishnoobs,like noob noob in R&M.
+- 😊 I’m @TeaQwQTea.
 - 🏫 Master student at [Laboratory of Big Data and Intelligent system](http://www.ubinec.org/),DLUT.
 - 🌱 I’m currently learning Unsupervised cross-modal hashing.
 
