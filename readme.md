@@ -1,4 +1,4 @@
-![Visitor's Count](https://count.getloli.com/get/@:cherishnoobs?theme=moebooru-h)
+![Visitor's Count](https://count.getloli.com/get/@:cherishnoobs?theme=moebooru)
 
 ### Hi there 👋
 
